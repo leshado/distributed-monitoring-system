@@ -1,0 +1,12 @@
+apiVersion: 1
+
+providers:
+  - name: Distributed Monitoring System
+    orgId: 1
+    folder: Distributed Monitoring System
+    type: file
+    disableDeletion: false
+    updateIntervalSeconds: 30
+    allowUiUpdates: true
+    options:
+      path: /var/lib/grafana/dashboards

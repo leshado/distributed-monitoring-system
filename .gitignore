@@ -1,0 +1,10 @@
+.env
+.idea/
+bin/
+api
+monitor-targets
+*.log
+*.test
+coverage.out
+tmp/
+.DS_Store

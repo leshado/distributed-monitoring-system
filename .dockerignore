@@ -1,0 +1,10 @@
+.git
+.idea
+.env
+bin
+api
+monitor-targets
+tmp
+*.log
+*.test
+coverage.out
